@@ -1,0 +1,21 @@
+{
+  "name": "redis-tuto",
+  "version": "1.0.0",
+  "description": "tuto about redis with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "Test",
+    "dev": "nodemon index.js",
+    "dev2": "nodemon index2.js",
+    "start": "node index.js"
+  },
+  "author": "Azer ben azzouz | wissal soltani",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "redis": "^4.7.0"
+  }
+}
